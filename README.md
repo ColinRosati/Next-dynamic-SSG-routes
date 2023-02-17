@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). This repo creates dynamic SSG routes based on an external source. This app use (swapi)[https://swapi.dev/] to build pages dedicated for all star wars planets 
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). This repo creates dynamic SSG routes based on an external source. This app use [swapi](https://swapi.dev/) to build pages dedicated for all star wars planets 
 
 ## Getting Started
 
